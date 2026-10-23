@@ -8,7 +8,7 @@ This Python project is designed to extract textual data from URLs specified in a
 
 Key Features:
 
-Efficient URL processing using Beautiful Soup.
+Efficient URL processing using Beautiful  Soup.
 Structured text file saving based on URL IDs.
 Targeted content extraction, excluding unnecessary elements and also spell checks.
 Comprehensive text analysis, including sentiment analysis, readability, word properties, lexical complexity, and grammar/style.
